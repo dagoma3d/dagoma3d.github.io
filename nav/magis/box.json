@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Préparation",
+    "href": "/magis/box"
+  },
+  {
+    "label": "Assemblage",
+    "href": "/magis/box/1"
+  },
+  {
+    "label": "Installation",
+    "href": "/magis/box/2"
+  }
+]

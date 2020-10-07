@@ -1,0 +1,142 @@
+{
+  "header": {
+    "img": "FirstStep/premier-pas.jpg",
+    "title": ["Premiers pas"],
+    "subtitle": "C'est parti !",
+    "text": [
+      "Félicitations ! Si vous êtes ici c'est que vous avez fait un (bon) choix : vous lancer dans l'aventure de l'impression 3D. Nous allons vous accompagner étape par étape, du montage à la première utilisation de votre machine ou de vos nouveaux composants. Vous êtes prêts ?"
+    ]
+  },
+  "title": {
+    "type": "banner",
+    "title": "Choisissez votre imprimante 3D pour commencer"
+  },
+  "choices": [
+    {
+      "title": "Magis",
+      "src": "magis",
+      "options": [
+        {
+          "to": "/magis",
+          "src": "magis",
+          "title": "Magis"
+        },
+        {
+          "to": "/magis/box",
+          "src": "caisson-neva-magis",
+          "title": "Caisson"
+        },
+        {
+          "to": "/cura-by-dagoma",
+          "src": "cura",
+          "title": "Notice de montage"
+        }
+      ]
+    },
+    {
+      "title": "Neva",
+      "src": "neva",
+      "options": [
+        {
+          "to": "/neva",
+          "src": "neva",
+          "title": "Neva"
+        },
+        {
+          "to": "/neva/box",
+          "src": "caisson-neva-magis",
+          "title": "Caisson"
+        },
+        {
+          "to": "/cura-by-dagoma",
+          "src": "cura",
+          "title": "Cura by Dagoma"
+        }
+      ]
+    },
+    {
+      "title": "DiscoEasy200",
+      "src": "discoeasy",
+      "options": [
+        {
+          "to": "/de200",
+          "src": "discoeasy",
+          "title": "Notice de montage"
+        },
+        {
+          "to": "/de200/screen",
+          "title": "Ecran"
+        },
+        {
+          "to": "/de200/extruder-plus",
+          "title": "Extrudeur+"
+        },
+        {
+          "to": "/de200/expert",
+          "title": "Pack expert"
+        },
+        {
+          "to": "/de200/bicolor",
+          "title": "Pack bi-couleur"
+        },
+        {
+          "to": "/de200/box",
+          "src": "caisson-disco",
+          "title": "Caisson de protection"
+        },
+        {
+          "to": "/de200/pack-evo-ultimate",
+          "src": "pack-evo",
+          "title": "Pack évolution Ultimate"
+        },
+        {
+          "to": "/de200/xl",
+          "title": "Pack XL"
+        },
+        {
+          "to": "/cura-by-dagoma",
+          "src": "cura",
+          "title": "Cura by Dagoma"
+        }
+      ]
+    },
+    {
+      "title": "Disco Ultimate",
+      "src": "disco-ultimate",
+      "options": [
+        {
+          "to": "/du",
+          "src": "disco-ultimate",
+          "title": "Notice de montage"
+        },
+        {
+          "to": "/du/screen",
+          "title": "Ecran"
+        },
+        {
+          "to": "/du/bicolor",
+          "title": "Pack bi-couleur"
+        },
+        {
+          "to": "/du/xl",
+          "title": "Pack XL"
+        },
+        {
+          "to": "/du/box",
+          "src": "caisson-disco",
+          "title": "Caisson de protection"
+        },
+        {
+          "to": "/cura-by-dagoma",
+          "src": "cura",
+          "title": "Cura by Dagoma"
+        }
+      ]
+    },
+    {
+      "title": "Cura by Dagoma",
+      "src": "cura",
+      "to": "cura-by-dagoma"
+    }
+  ]
+}

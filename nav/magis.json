@@ -1,0 +1,26 @@
+[
+  {
+    "href": "/magis",
+    "label": "START"
+  },
+  {
+    "href": "/magis/1",
+    "label": "1"
+  },
+  {
+    "href": "/magis/2",
+    "label": "2"
+  },
+  {
+    "href": "/magis/3",
+    "label": "3"
+  },
+  {
+    "href": "/magis/4",
+    "label": "4"
+  },
+  {
+    "href": "/magis/5",
+    "label": "CURA"
+  }
+]
