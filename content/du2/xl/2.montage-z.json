@@ -160,8 +160,8 @@
         },
         {
           "button": {
-            "text": "Pour plus d'info sur le sens, ",
-            "to": "/du/7.notice#du-courroie-x",
+            "text": "Pour plus d'info sur le sens, vous pouvez retourner sur la notice de montage de la courroie de la tête.",
+            "to": "/du2/6.notice",
             "label": "C'est par ici !"
           }
         }

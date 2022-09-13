@@ -16,9 +16,12 @@
           "text": "La première étape consiste à re-positionner la carte électronique. Vissez les 2 vis de maintien (M3-6mm)."
         },
         {
+          "text": "Petit rappel, pour la Disco Ultimate V2 TMC, la carte électronique est une D6. Les branchements ne diffèrent pas sauf pour le bouton pause du cache côté qui n'existe plus."
+        },
+        {
           "button": {
-            "text": "Ensuite, passez au câblage. Pour cela, suivez le guide par ",
-            "to": "/du/9.notice",
+            "text": "Passez ensuite au câblage. Pour cela, suivez le guide par ",
+            "to": "/du2/8.notice",
             "label": "ici"
           }
         },
@@ -87,7 +90,7 @@
           "text": "3 étapes dans cette vidéo :"
         },
         {
-          "text": "1- installation de l'aimant : nettoyez et enlevez la poussière sur le plateau en fibre, puis positionnez l'aimant : pour cela vous pouvez utiliser les 2 vis à l'arrière du plateau pour venir le bloquer. Attention, lors du collage, il est imporant de NE PAS créer de bulles d'air sous l'aimant. Retirez le film protecteur et collez l'aimant."
+          "text": "1- installation de l'aimant : nettoyer et enlevez la poussière sur le plateau en fibre, puis positionnez l'aimant : pour cela vous pouvez utiliser les 2 vis à l'arrière du plateau pour venir le bloquer. Attention, lors du collage, il est imporant de NE PAS créer de bulles d'air sous l'aimant. Retirez le film protecteur et collez l'aimant."
         },
         {
           "text": "2- vous pouvez désormais placer la tole flexible XL sur l'aimant. les 2 vis au niveau des oreilles à l'arrière du plateau XL servent à venir le positionner."
@@ -128,6 +131,9 @@
         },
         {
           "text": "Vous avez une vis supplémentaire afin de viser le nouveau bloc de déport de l'écran sur le cache coté."
+        },
+        {
+          "text": "Pour l'écran de la DiscoUltimate V2 TMC, la pièce imprimée support pour l'écran sera plus grande, le système d'accroche est le même."
         }
       ]
     }
